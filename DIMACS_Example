@@ -1,4 +1,4 @@
-c 3 variables, 6 clauses
+c 9 variables, 6 clauses
 p cnf 9 6
 1 6 7 8 0   
 2 0          
